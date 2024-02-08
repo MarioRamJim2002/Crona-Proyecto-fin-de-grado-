@@ -1,0 +1,1098 @@
+fileFormatVersion: 2
+guid: 50052a6695637e04490263bfadc0c73e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2301092073843593211
+    second: Tilemap Bosque Talior_0
+  - first:
+      213: -9111583716426743416
+    second: Tilemap Bosque Talior_1
+  - first:
+      213: -2345299158810074215
+    second: Tilemap Bosque Talior_2
+  - first:
+      213: -6564153370486696657
+    second: Tilemap Bosque Talior_3
+  - first:
+      213: 4851906965884302162
+    second: Tilemap Bosque Talior_4
+  - first:
+      213: 3819323917796696829
+    second: Tilemap Bosque Talior_5
+  - first:
+      213: -6992234102453899460
+    second: Tilemap Bosque Talior_6
+  - first:
+      213: -6270401403088417055
+    second: Tilemap Bosque Talior_7
+  - first:
+      213: 9076589013309135313
+    second: Tilemap Bosque Talior_8
+  - first:
+      213: -8801612311090791599
+    second: Tilemap Bosque Talior_9
+  - first:
+      213: 2458061656601285412
+    second: Tilemap Bosque Talior_10
+  - first:
+      213: -5528578284015970127
+    second: Tilemap Bosque Talior_11
+  - first:
+      213: 3071457570419768988
+    second: Tilemap Bosque Talior_12
+  - first:
+      213: 526743164019572460
+    second: Tilemap Bosque Talior_13
+  - first:
+      213: -3781267557894357191
+    second: Tilemap Bosque Talior_14
+  - first:
+      213: 2307560740712431554
+    second: Tilemap Bosque Talior_15
+  - first:
+      213: -1029596501708462186
+    second: Tilemap Bosque Talior_16
+  - first:
+      213: 6542968875919215589
+    second: Tilemap Bosque Talior_17
+  - first:
+      213: 9094305842991236710
+    second: Tilemap Bosque Talior_18
+  - first:
+      213: 382460198244019657
+    second: Tilemap Bosque Talior_19
+  - first:
+      213: -1583984026828605869
+    second: Tilemap Bosque Talior_20
+  - first:
+      213: 1099617726824730161
+    second: Tilemap Bosque Talior_21
+  - first:
+      213: 9144880121314138253
+    second: Tilemap Bosque Talior_22
+  - first:
+      213: -5674598544907072145
+    second: Tilemap Bosque Talior_23
+  - first:
+      213: -1571594759916649830
+    second: Tilemap Bosque Talior_24
+  - first:
+      213: 847970523572107560
+    second: Tilemap Bosque Talior_25
+  - first:
+      213: 4530385726105559855
+    second: Tilemap Bosque Talior_26
+  - first:
+      213: 4765209035004277446
+    second: Tilemap Bosque Talior_27
+  - first:
+      213: -8896606012302187920
+    second: Tilemap Bosque Talior_28
+  - first:
+      213: -3862747584452819700
+    second: Tilemap Bosque Talior_29
+  - first:
+      213: -531180845327216157
+    second: Tilemap Bosque Talior_30
+  - first:
+      213: 7621544806550592550
+    second: Tilemap Bosque Talior_31
+  - first:
+      213: 5057854019063411553
+    second: Tilemap Bosque Talior_32
+  - first:
+      213: 5195561540301095629
+    second: Tilemap Bosque Talior_33
+  - first:
+      213: -4722140347335270944
+    second: Tilemap Bosque Talior_34
+  - first:
+      213: 5517355630074876773
+    second: Tilemap Bosque Talior_35
+  - first:
+      213: -378333749811632235
+    second: Tilemap Bosque Talior_36
+  - first:
+      213: 1343923938886161117
+    second: Tilemap Bosque Talior_37
+  - first:
+      213: 6287325491072840209
+    second: Tilemap Bosque Talior_38
+  - first:
+      213: -8891325757782055923
+    second: Tilemap Bosque Talior_39
+  - first:
+      213: -4631904606415028902
+    second: Tilemap Bosque Talior_40
+  - first:
+      213: 3728487999882733056
+    second: Tilemap Bosque Talior_41
+  - first:
+      213: -1006553499782308689
+    second: Tilemap Bosque Talior_42
+  - first:
+      213: -6084090282701204972
+    second: Tilemap Bosque Talior_43
+  - first:
+      213: 6471984935961344610
+    second: Tilemap Bosque Talior_44
+  - first:
+      213: 8293914483041267976
+    second: Tilemap Bosque Talior_45
+  - first:
+      213: -7748857767368464585
+    second: Tilemap Bosque Talior_46
+  - first:
+      213: 8556102068732083571
+    second: Tilemap Bosque Talior_47
+  - first:
+      213: 6577745272737018968
+    second: Tilemap Bosque Talior_48
+  - first:
+      213: 5619195733800293797
+    second: Tilemap Bosque Talior_49
+  - first:
+      213: -3258309920239606872
+    second: Tilemap Bosque Talior_50
+  - first:
+      213: 221536061857692025
+    second: Tilemap Bosque Talior_51
+  - first:
+      213: -6368776161772526735
+    second: Tilemap Bosque Talior_52
+  - first:
+      213: 5816418242745176735
+    second: Tilemap Bosque Talior_53
+  - first:
+      213: -318883595478200924
+    second: Tilemap Bosque Talior_54
+  - first:
+      213: -6744621237653355191
+    second: Tilemap Bosque Talior_55
+  - first:
+      213: -8771081126719809901
+    second: Tilemap Bosque Talior_56
+  - first:
+      213: -7382918101004077767
+    second: Tilemap Bosque Talior_57
+  - first:
+      213: -4436149779715292142
+    second: Tilemap Bosque Talior_58
+  - first:
+      213: -8638325158308288791
+    second: Tilemap Bosque Talior_59
+  - first:
+      213: -1854305418130595695
+    second: Tilemap Bosque Talior_60
+  - first:
+      213: -1031426537546239304
+    second: Tilemap Bosque Talior_61
+  - first:
+      213: -8326750019522987788
+    second: Tilemap Bosque Talior_62
+  - first:
+      213: 5005319313781986453
+    second: Tilemap Bosque Talior_63
+  - first:
+      213: -7324083548975467054
+    second: Tilemap Bosque Talior_64
+  - first:
+      213: -6568782772809194557
+    second: Tilemap Bosque Talior_65
+  - first:
+      213: -7946149710859667148
+    second: Tilemap Bosque Talior_66
+  - first:
+      213: -5752586818035881246
+    second: Tilemap Bosque Talior_67
+  - first:
+      213: -2596433759174720392
+    second: Tilemap Bosque Talior_68
+  - first:
+      213: -5190957767705267962
+    second: Tilemap Bosque Talior_69
+  - first:
+      213: 1882259446013904071
+    second: Tilemap Bosque Talior_70
+  - first:
+      213: -5770416450354904911
+    second: Tilemap Bosque Talior_71
+  - first:
+      213: -4320463627658079251
+    second: Tilemap Bosque Talior_72
+  - first:
+      213: -6543514275784678705
+    second: Tilemap Bosque Talior_73
+  - first:
+      213: 1874677232421937290
+    second: Tilemap Bosque Talior_74
+  - first:
+      213: 3233604530183053033
+    second: Tilemap Bosque Talior_75
+  - first:
+      213: 4889078481144242799
+    second: Tilemap Bosque Talior_76
+  - first:
+      213: -5009173164081525866
+    second: Tilemap Bosque Talior_77
+  - first:
+      213: -2766757206613759425
+    second: Tilemap Bosque Talior_78
+  - first:
+      213: 5526237817382570280
+    second: Tilemap Bosque Talior_79
+  - first:
+      213: 4993230785308788607
+    second: Tilemap Bosque Talior_80
+  - first:
+      213: 9183293835074479323
+    second: Tilemap Bosque Talior_81
+  - first:
+      213: -7487044891345763643
+    second: Tilemap Bosque Talior_82
+  - first:
+      213: -3274174539488811024
+    second: Tilemap Bosque Talior_83
+  - first:
+      213: -9073349928763558895
+    second: Tilemap Bosque Talior_84
+  - first:
+      213: 807207364043859384
+    second: Tilemap Bosque Talior_85
+  - first:
+      213: -3724387081179554587
+    second: Tilemap Bosque Talior_86
+  - first:
+      213: -9108747434246517961
+    second: Tilemap Bosque Talior_87
+  - first:
+      213: -5471664998528735564
+    second: Tilemap Bosque Talior_88
+  - first:
+      213: 1761796568114335287
+    second: Tilemap Bosque Talior_89
+  - first:
+      213: -3803588585450958829
+    second: Tilemap Bosque Talior_90
+  - first:
+      213: -2496177076463798451
+    second: Tilemap Bosque Talior_91
+  - first:
+      213: 5160983996738884774
+    second: Tilemap Bosque Talior_92
+  - first:
+      213: -4784839146006918781
+    second: Tilemap Bosque Talior_93
+  - first:
+      213: -1215222220516680967
+    second: Tilemap Bosque Talior_94
+  - first:
+      213: 1217897637320788326
+    second: Tilemap Bosque Talior_95
+  - first:
+      213: -147371076089199236
+    second: Tilemap Bosque Talior_96
+  - first:
+      213: 9080603407370823337
+    second: Tilemap Bosque Talior_97
+  - first:
+      213: 5426566410445091170
+    second: Tilemap Bosque Talior_98
+  - first:
+      213: 1867724586902873091
+    second: Tilemap Bosque Talior_99
+  - first:
+      213: -2077844969890894361
+    second: Tilemap Bosque Talior_100
+  - first:
+      213: 5917191603797928759
+    second: Tilemap Bosque Talior_101
+  - first:
+      213: -2507054509012704496
+    second: Tilemap Bosque Talior_102
+  - first:
+      213: -6072900728181088548
+    second: Tilemap Bosque Talior_103
+  - first:
+      213: -9071269913234553282
+    second: Tilemap Bosque Talior_104
+  - first:
+      213: -8601522839010012618
+    second: Tilemap Bosque Talior_105
+  - first:
+      213: -1947676621899392774
+    second: Tilemap Bosque Talior_106
+  - first:
+      213: 8535870007901333041
+    second: Tilemap Bosque Talior_107
+  - first:
+      213: -2068623766670846271
+    second: Tilemap Bosque Talior_108
+  - first:
+      213: 1774654094596071139
+    second: Tilemap Bosque Talior_109
+  - first:
+      213: -7114018814405188676
+    second: Tilemap Bosque Talior_110
+  - first:
+      213: 3457359997669276055
+    second: Tilemap Bosque Talior_111
+  - first:
+      213: -371128060636261917
+    second: Tilemap Bosque Talior_112
+  - first:
+      213: -3114108613092670733
+    second: Tilemap Bosque Talior_113
+  - first:
+      213: -7657482464630448771
+    second: Tilemap Bosque Talior_114
+  - first:
+      213: -8503580879965886233
+    second: Tilemap Bosque Talior_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 101
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0ae8ac0f1fef10800000000000000
+      internalID: 2301092073843593211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881862992e62d8180800000000000000
+      internalID: -9111583716426743416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936a1b47d2d37fd0800000000000000
+      internalID: -2345299158810074215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2515f4b94177e4a0800000000000000
+      internalID: -6564153370486696657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253f6c0ddaf655340800000000000000
+      internalID: 4851906965884302162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2ec6a1ed6f00530800000000000000
+      internalID: 3819323917796696829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fecd8512896fe90800000000000000
+      internalID: -6992234102453899460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eecdc9552f0bf8a0800000000000000
+      internalID: -6270401403088417055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d911862e9586fd70800000000000000
+      internalID: 9076589013309135313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7aba6c346ad580800000000000000
+      internalID: -8801612311090791599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235ab5ad0acc1220800000000000000
+      internalID: 2458061656601285412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81a44a75b8643b0800000000000000
+      internalID: -5528578284015970127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9efd83136200aa20800000000000000
+      internalID: 3071457570419768988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee704bed1e5f4700800000000000000
+      internalID: 526743164019572460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7ffaa03d368bc0800000000000000
+      internalID: -3781267557894357191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf3dc7844a160020800000000000000
+      internalID: 2307560740712431554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697aeadcf6326b1f0800000000000000
+      internalID: -1029596501708462186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb0a99c68b4dca50800000000000000
+      internalID: 6542968875919215589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66680420bf6753e70800000000000000
+      internalID: 9094305842991236710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6f012685ce4500800000000000000
+      internalID: 382460198244019657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356fcfe7bee840ae0800000000000000
+      internalID: -1583984026828605869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e4c1c1f70a24f00800000000000000
+      internalID: 1099617726824730161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88d578c40429ee70800000000000000
+      internalID: 9144880121314138253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8ddf40b6cf31b0800000000000000
+      internalID: -5674598544907072145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a928d4c74e2903ae0800000000000000
+      internalID: -1571594759916649830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829748dc2b894cb00800000000000000
+      internalID: 847970523572107560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23a50c90d92fde30800000000000000
+      internalID: 4530385726105559855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c279e3ce5c612240800000000000000
+      internalID: 4765209035004277446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072af12d7f7e88480800000000000000
+      internalID: -8896606012302187920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap Bosque Talior_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0501b3a983c46ac0800000000000000
+      internalID: -3862747584452819700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
