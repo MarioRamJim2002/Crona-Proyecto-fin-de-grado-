@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Npc
+  - Arbusto
   layers:
   - Default
   - TransparentFX

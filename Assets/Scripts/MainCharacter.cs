@@ -18,11 +18,11 @@ public class MainCharacter : MonoBehaviour{
     public Text statsDefensa;
     public Text statsVelocidad;
 
-    private MenusManager menusManager;
+    public MenusManager menusManager;
     public ControladorDatos controladorDatos;
 
     public int vidaTotal = 21;
-    public int vidaActual = 20; 
+    public int vidaActual = 21; 
 
     public double expSiguienteNivel = 100; 
     public double expActual = 0;
@@ -33,6 +33,7 @@ public class MainCharacter : MonoBehaviour{
     public int velocidad = 9;
 
     private int objetoSeleccionado = -1;
+    private float velocidadMovimiento = 4f;
 
     void Start(){
         
@@ -61,15 +62,12 @@ public class MainCharacter : MonoBehaviour{
             transform.position = new Vector3(controladorDatos.x, controladorDatos.y, 0);
         }
         
+
     }
 
-  private void OnTriggerEnter2D(Collider2D collision){
+   private void OnCollisionEnter2D(Collision2D collision){
 
-        if(collision.tag == "Npc"){
-
-            //Destroy(this.gameObject);
-
-        }
+    recibirDaño(1);
 
     }  
 
@@ -87,9 +85,6 @@ public class MainCharacter : MonoBehaviour{
             }
 
         }
-
-        textoVida.text = vidaActual+"/"+vidaTotal;
-
     }
 
     public void recibirDaño(int daño){
@@ -100,12 +95,9 @@ public class MainCharacter : MonoBehaviour{
 
         }else{
 
-            vidaActual -= daño;
+            vidaActual = (int)(vidaActual-(daño/daño-1));
 
         }
-
-        textoVida.text = vidaActual+"/"+vidaTotal;
-
     }
 
     public void subirExp(double puntos){
@@ -128,17 +120,18 @@ public class MainCharacter : MonoBehaviour{
             expSiguienteNivel = expSiguienteNivel * 1.2; 
             expSiguienteNivel = Mathf.Round((float)expSiguienteNivel);
         
-            textoVida.text = vidaActual+"/"+vidaTotal;
 
         }
 
-        textoExperiencia.text = expActual+"/"+expSiguienteNivel;
 
     }
 
 
+    void Update(){  
+        
 
-    void Update(){
+        textoVida.text = vidaActual+"/"+vidaTotal; 
+        textoExperiencia.text = expActual+"/"+expSiguienteNivel;
 
         controladorDatos.persVidaMaxima = vidaTotal;
         controladorDatos.persVidaActual = vidaActual;
@@ -155,39 +148,27 @@ public class MainCharacter : MonoBehaviour{
             
         }else{
 
-            if(Input.GetKey("up")||Input.GetKey("w")){
+        gameObject.transform.Translate(new Vector3(Input.GetAxis("Horizontal")*velocidadMovimiento*Time.deltaTime,Input.GetAxis("Vertical")*velocidadMovimiento*Time.deltaTime,0));
 
-                gameObject.transform.Translate(0, 4f * Time.deltaTime,0);
-                animator.Play("Walk_up");
-
-            }else{
-
-                if(Input.GetKey("down")||Input.GetKey("s")){
-
-                    gameObject.transform.Translate(0, -4f * Time.deltaTime,0);
-                    animator.Play("Walk_down");
-
-                }else{
-
-                    if(Input.GetKey("right")||Input.GetKey("d")){
-
-                    gameObject.transform.Translate(4f * Time.deltaTime,0,0);
-                    animator.Play("Walk_right");
-
-                    }else{
-
-                        if(Input.GetKey("left")||Input.GetKey("a")){
-
-                            gameObject.transform.Translate(-4f * Time.deltaTime,0,0);
-                            animator.Play("Walk_left");
-
-                        }else{
-                            animator.Play("Idle");
-                        }
-
-                    }
-                }
+        if(Input.GetAxis("Vertical")>0){
+            animator.Play("Walk_up");
+        }
+        else
+            if(Input.GetAxis("Vertical")<0){
+                animator.Play("Walk_down");
             }
+            else
+                if(Input.GetAxis("Horizontal")>0){
+                    animator.Play("Walk_right");
+                }
+                else
+                    if(Input.GetAxis("Horizontal")<0){
+                        animator.Play("Walk_left");
+                    }
+                    else{
+                        animator.Play("Idle");
+                    }
+            
         }
     }
 }

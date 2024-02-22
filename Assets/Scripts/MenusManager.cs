@@ -46,19 +46,23 @@ public class MenusManager : MonoBehaviour{
     public Button botonUsar;
 
     private string menuActual;
-    public Objeto objetoSeleccionado = new Objeto("","", null,0);
-
+    //public Objeto objetoSeleccionado;
+    public string nombreObjetoTexto;
+    
     void Start(){
 
         nombresObjetos[0] = "Seta roja";
         nombresObjetos[1] = "Pocion exp pequeña";
+        nombresObjetos[2] = "Baya roja";
         descripcionObjetos[0] = "Seta roja que se puede encontrar en la naturaleza. Se puede consumir para recuperar 10 puntos de vida";
         descripcionObjetos[1] = "Poción de experiencia de tamaño pequeño. Se puede consumir para conseguir 100 puntos de experiencia"; 
+        descripcionObjetos[2] = "Baya roja bastante común en el bosque de Talior. Pueden ser de valor en algunos lugares ya que es autoctona de esta zona"; 
         cantidadObjetos[0] = 2;
         cantidadObjetos[1] = 2;
+        cantidadObjetos[2] = 0;
         cantidadObjetosText[0].text = "x" + cantidadObjetos[0];
         cantidadObjetosText[1].text = "x" + cantidadObjetos[1];
-
+        cantidadObjetosText[2].text = "x" + cantidadObjetos[1];
         nombresEquipamiento[0] = "Espada de hierro";
         nombresEquipamiento[1] = "Espada de fuego";
         nombresEquipamiento[2] = "Armadura de cuero";
@@ -121,26 +125,36 @@ public class MenusManager : MonoBehaviour{
     }
 
     public void UsarObjeto(){
-
-        if(objetoSeleccionado.nombre == "Seta roja"){
-            if(personajePrincipal.vidaActual != personajePrincipal.vidaTotal){
-                objetoSeleccionado.cantidadObjeto-=1;
-                personajePrincipal.vidaActual+=10;
-                if(personajePrincipal.vidaActual>personajePrincipal.vidaTotal){
-                    personajePrincipal.vidaActual = personajePrincipal.vidaTotal;
+        
+        if(menuActual == "O"){
+            if(nombreObjetoTexto == "Seta roja"){
+                if(personajePrincipal.vidaActual != personajePrincipal.vidaTotal){
+                    if(cantidadObjetos[0]!=0){
+                        cantidadObjetos[0]-=1;
+                        personajePrincipal.curarVida(10);
+                    }else{
+                        imagenInventario.color = new Color(0,0,0,0);
+                    }
+                }   
+            }
+            if(nombreObjetoTexto == "Pocion exp pequeña"){
+                if(cantidadObjetos[1]!=0){
+                    personajePrincipal.subirExp(100d);
+                    cantidadObjetos[1]-=1;
+                }else{
+                    textoDescripcion.text = "";
+                    textoObjeto.text = "";
+                    botonUsar.GetComponentsInChildren<Text>()[0].text = "";
                 }
-
-            }   
+            }
+            CambiarInventario("O");
         }
 
-        if(objetoSeleccionado.nombre == "Pocion exp pequeña"){
-
-
-
-        }
     }
 
     public void MostrarInventario(Image imagenMostrar, Button boton, Text texto, Text cantidadTexto){
+
+        imagenInventario.color = new Color(255,255,255,255);
 
         if(menuActual == "O"){
 
@@ -163,9 +177,11 @@ public class MenusManager : MonoBehaviour{
             botonUsar.GetComponentsInChildren<Text>()[0].text = "Equipar";
         }
         
-        objetoSeleccionado.setSprite(imagenInventario.sprite);
-        objetoSeleccionado.setDescripcion(textoDescripcion.text);
-        objetoSeleccionado.setNombre(textoObjeto.text);
+        nombreObjetoTexto = textoObjeto.text;
+        
+        // objetoSeleccionado.setSprite(imagenInventario.sprite);
+        // objetoSeleccionado.setDescripcion(textoDescripcion.text);
+        // objetoSeleccionado.setNombre(textoObjeto.text);
     }
 
     public void CambiarInventario(string menu){
@@ -195,6 +211,7 @@ public class MenusManager : MonoBehaviour{
 
                 botonesInventario[i].GetComponentsInChildren<Text>()[0].text = "";
                 imagenesIcono[i].color =  new Color(0,0,0,0);
+                cantidadInventario[contador].text = "";
 
             }
 
